@@ -1,0 +1,14 @@
+/vendor/
+/logs/*
+!/logs/README.md
+composer.lock
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+public/assets/css/*
+!public/assets/css/.gitkeep
+public/assets/js/*
+!public/assets/js/.gitkeep
+public/assets/img/*
+!public/assets/img/.gitkeep
